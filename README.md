@@ -1,2 +1,1 @@
-# react-practise
-First React.js experience
+# First React.js experience
