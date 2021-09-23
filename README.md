@@ -1,1 +1,1 @@
-# First React.js experience
+# First React experience
