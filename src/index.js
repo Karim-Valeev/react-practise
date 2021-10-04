@@ -5,8 +5,10 @@ import App from "./App";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-  rootElement
+    <StrictMode>
+{/*  Нужен для проверок, а не для рендеринга*/}
+        <App />
+  {/*    Корневой компонент*/}
+    </StrictMode>,
+    rootElement
 );
